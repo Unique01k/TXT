@@ -1,1 +1,3 @@
-
+Create bug_report.txt
+Make Commit changes
+Modify the bug_report.txt file on the web interface, add a bug report in txt format
